@@ -5,4 +5,4 @@ IaC : <a href="https://www.redhat.com/en/topics/automation/what-is-infrastructur
 Dockerfile : <a href="https://learn.microsoft.com/en-us/virtualization/windowscontainers/manage-docker/manage-windows-dockerfile"> Dockerfile Details </a> <br/>
 AWS Educate Account Open: <a href="https://www.youtube.com/watch?v=7KCs-0hfTXA"> Process </a> <br/>
 Elastic Compute Cloud : <a href="https://www.youtube.com/watch?v=oqHfiRzxunY"> EC2</a> <br/>
-Storage : <a href="https://aws.amazon.com/ebs/"> EBS </a> 
+Storage : <a href="https://aws.amazon.com/ebs/"> EBS </a>
