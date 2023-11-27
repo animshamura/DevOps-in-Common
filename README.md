@@ -7,3 +7,4 @@ AWS Educate Account Open: <a href="https://www.youtube.com/watch?v=7KCs-0hfTXA">
 Elastic Compute Cloud : <a href="https://www.youtube.com/watch?v=oqHfiRzxunY"> EC2</a> <br/>
 Storage : <a href="https://aws.amazon.com/ebs/"> EBS </a>
 
+
